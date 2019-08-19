@@ -1,0 +1,1 @@
+web: gunicorn My_Flask_Blog.wsgi
